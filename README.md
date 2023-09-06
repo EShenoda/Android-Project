@@ -16,7 +16,7 @@
 
 <br>
 
-## [Click Here to View Even More Android Illustrations](https://github.com/EShenoda/Android-Illustrations-I)
+## [Click Here For More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
 <br>
 
