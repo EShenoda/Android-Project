@@ -14,7 +14,90 @@
 <br>
 <br>
 
+
+## Project Overview
+
+App Name: __What's for Dinner__
+
 <br>
+
+
+__Main concepts__
+
+* Provide dinner suggestions based on the user's search criteria.
+* Provide cooking instructions and a favorites list.
+* Provide up to 20 restaurant locations based on the user's GPS location.
+* Provide directions to restaurants with Google Maps Navigation.
+
+<br>
+
+__Topics of Research__
+
+* Google Firebase Firestore
+* Google Maps SDK
+* OkHttp Requests
+* Spoonacular's Food-Recipe-Nutrition Database
+* NearbyPlace's API
+* Android Navigation: Top level navigation
+* Android Bottom Sheet Dialog
+
+<br>
+
+### Prototype
+
+<img src= "Images/Prototype.png" height= 350>
+
+
+<br>
+<br>
+
+<p align="center">
+	<img src= "Images/Seven.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Six.png" height=350>
+</p>
+
+
+<br>
+<br>
+
+<p align="center">
+  <img src= "Images/Two.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Three.gif" height=350>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <img src= "Images/Four.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Five.png" height=350>
+</p>
+
+
+<br>
+<br>
+
+<p align="center">
+  <img src= "Images/Eight.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Nine.gif" height=350>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <img src= "Images/Ten.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/Eleven.gif" height=350>
+</p>
+
+<br>
+<br>
+
 
 ## [Click Here For More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
