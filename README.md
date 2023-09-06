@@ -19,6 +19,10 @@
 
 App Name: __What's for Dinner__
 
+<p align="center">
+  <img src= "Images/One.png" height=350>
+</p>
+
 <br>
 
 
@@ -41,14 +45,28 @@ __Topics of Research__
 * Android Navigation: Top level navigation
 * Android Bottom Sheet Dialog
 
-<br>
+
+#### Integrative Project Research
+
+> __'Right click'__ and open Google Drive link in new tab
+
+[App Definition Statement](https://docs.google.com/document/d/1-WjvbyrUeKiPCQ_1aV3RnTcMMrhGf9u7/edit?usp=sharing&ouid=115860969731833325173&rtpof=true&sd=true)
+
+[Project Research](https://docs.google.com/document/d/14F7B76u9hrESB6oRYT9-jL_FwbKY1hxx/edit?usp=sharing&ouid=115860969731833325173&rtpof=true&sd=true)
+
+[User Stories & Functional Requirements](https://docs.google.com/spreadsheets/d/1h-yODjjGWOR0jdwim_ceX9dtYOjz237on1vEq01C3Rw/edit?usp=sharing)
+
 
 ### Prototype
 
 <img src= "Images/Prototype.png" height= 350>
 
 
-<br>
+> __'Right click'__ and open Adobe XD link in new tab
+
+[Adobe XD Prototype](https://xd.adobe.com/view/6a2e9c2d-5078-4425-a59d-5b317f674807-3f7d/)
+
+
 <br>
 
 <p align="center">
