@@ -1,4 +1,4 @@
-# Android Google Maps Project
+# <p align="center">Android Google Maps Project </p>
 
 <br>
 
