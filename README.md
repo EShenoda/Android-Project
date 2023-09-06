@@ -14,7 +14,7 @@
 
 ## Table of contents
 * [Project Overview](#project-overview)
-* [Integrative Research](#integrated-project-research)
+* [Integrative Research](#integrative-project-research)
 * [Prototype](#prototype)
 * [Illustrations](#illustrations)
 * [Copyright](#copyright)
