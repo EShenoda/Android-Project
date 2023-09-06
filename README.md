@@ -11,8 +11,18 @@
 
 
 <br>
-<br>
 
+## Table of contents
+* [Project Overview](#project-overview)
+* [Integrative Research](#integrated-project-research)
+* [Prototype](#prototype)
+* [Illustrations](#illustrations)
+* [Copyright](#copyright)
+* [Contact](#contact)
+
+
+<br>
+<br>
 
 ## Project Overview
 
@@ -68,6 +78,8 @@ __Topics of Research__
 
 
 <br>
+
+## Illustrations
 
 <p align="center">
 	<img src= "Images/Seven.gif" height=350>
