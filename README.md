@@ -12,8 +12,6 @@
 * [Copyright](#copyright)
 * [Contact](#contact)
 
-<br>
-
 ## Project Overview
 
 App Name: __What's for Dinner__
@@ -44,7 +42,6 @@ __Topics of Research__
 * Android Navigation: Top level navigation
 * Android Bottom Sheet Dialog
 
-<br>
 
 ## Integrative Project Research
 
