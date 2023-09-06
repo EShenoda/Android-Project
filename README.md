@@ -12,8 +12,6 @@
 * [Copyright](#copyright)
 * [Contact](#contact)
 
-
-<br>
 <br>
 
 ## Project Overview
@@ -48,7 +46,7 @@ __Topics of Research__
 
 <br>
 
-#### Integrative Project Research
+## Integrative Project Research
 
 > __'Right click'__ and open Google Drive link in new tab
 
@@ -59,7 +57,7 @@ __Topics of Research__
 [User Stories & Functional Requirements](https://docs.google.com/spreadsheets/d/1h-yODjjGWOR0jdwim_ceX9dtYOjz237on1vEq01C3Rw/edit?usp=sharing)
 
 
-### Prototype
+## Prototype
 
 <img src= "Images/Prototype.png" height= 350>
 
@@ -80,6 +78,8 @@ __Topics of Research__
 
 
 <br>
+<br>
+
 
 <p align="center">
 	<img src= "Images/Seven.gif" height=350>
