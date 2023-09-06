@@ -69,8 +69,6 @@ __Topics of Research__
 ## Illustrations
 
 
-<br>
-
 <h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h3>
 
 
