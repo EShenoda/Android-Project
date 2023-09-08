@@ -78,9 +78,7 @@ __Topics of Research__
 
 <p align="center">
 	<img src= "Images/Seven.gif" height=350>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Six.png" height=350>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;<img src= "Images/Six.png" height=350></p>
 
 
 <br>
@@ -116,8 +114,7 @@ __Topics of Research__
 
 <p align="center">
   <img src= "Images/Ten.gif" height=350>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-<img src= "Images/Eleven.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;<img src= "Images/Eleven.gif" height=350>
 </p>
 
 <br>
