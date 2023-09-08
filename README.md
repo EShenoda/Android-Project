@@ -25,10 +25,10 @@ App Name: __What's for Dinner__
 
 __Main concepts__
 
-* Provide dinner suggestions based on the user's search criteria.
-* Provide cooking instructions and a favorites list.
 * Provide up to 20 restaurant locations based on the user's GPS location.
 * Provide directions to restaurants with Google Maps Navigation.
+* Provide dinner suggestions based on the user's search criteria.
+* Provide cooking instructions and a favorites list.
 
 <br>
 
