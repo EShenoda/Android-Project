@@ -115,7 +115,6 @@ __Topics of Research__
 
 ## [Click Here For More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
-<br>
 
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
