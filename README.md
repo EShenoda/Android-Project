@@ -113,7 +113,7 @@ __Topics of Research__
 <br>
 
 
-## [Click Here For More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
+## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
 ## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
 
