@@ -9,6 +9,7 @@
 * [Integrative Research](#integrative-project-research)
 * [Prototype](#prototype)
 * [Illustrations](#illustrations)
+* [Quick Links](#quick-links)
 * [Copyright](#copyright)
 * [Contact](#contact)
 
@@ -111,12 +112,15 @@ __Topics of Research__
 </p>
 
 <br>
-<br>
+
+## Quick Links
 
 
-## [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
+### [Click Here to View More Android Illustrations](https://github.com/EShenoda/Android-Illustrations)
 
-## [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+### [Click Here to View iOS Illustrations](https://github.com/EShenoda/iOS-Game)
+
+### [Click Here to View iOS Illustrations using SwiftUI](https://github.com/EShenoda/SwiftUI)
 
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
